@@ -1,1 +1,1 @@
-# Mid-Semester-Project-State-of-the-Art-in-VA
+# Mid-Semester-Project: Digital Textile Website
